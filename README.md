@@ -9,6 +9,7 @@ S.No. | Content/Topic | Additional Comment
 --- | --- | ---
 
 ## References
+- https://opensource.com/open-organization/resources/book-series
 
 ## Author(s)
 
